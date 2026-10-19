@@ -1,10 +1,14 @@
 > **Business:** Module Kinetic (operating brand: Module Kinetic Ltd.)
 > **Owner:** Digital Currensy Inc. (all rights reserved)
 > **Document:** Product page: Photonseal (check 7 of 7). Documentation only, no source code
-> **Status:** DRAFT for founder review, not published
+> **Status:** Published (documentation showcase)
 > **Date:** 2026-10-19
 
 # Photonseal
+
+![Photonseal — illustration, with yes and no cards that are real product output](../assets/photonseal.svg)
+
+*Illustration: product art, not a photo of real equipment. Yes and no cards: real product output, same words as the run.*
 
 ## The question
 

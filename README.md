@@ -1,10 +1,14 @@
 > **Business:** Module Kinetic (operating brand: Module Kinetic Ltd.)
 > **Owner:** Digital Currensy Inc. (all rights reserved)
 > **Document:** Public portfolio showcase. Documentation only, no source code
-> **Status:** DRAFT for founder review, not published
+> **Status:** Published (documentation showcase)
 > **Date:** 2026-10-19
 
 # Module Kinetic
+
+![Module Kinetic — illustration of a charging bay with the seven checks as a lit chain](assets/hero.svg)
+
+*Illustration: product art, not a photo of real equipment.*
 
 **Proof, not opinion, for every EV charger repair.**
 
@@ -56,6 +60,10 @@ flowchart LR
 | 7 | Photonseal | Is the record sealed? | [docs/photonseal.md](docs/photonseal.md) |
 
 To follow one fault through all seven checks, see [docs/end-to-end.md](docs/end-to-end.md).
+
+![One fault through all seven checks — illustration, with labels that are real product output](assets/e2e.svg)
+
+*Illustration: product art. Step labels, the refusal and the final result: real product output.*
 
 ## Shared principles
 
