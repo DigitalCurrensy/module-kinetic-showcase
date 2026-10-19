@@ -1,10 +1,12 @@
 > **Business:** Module Kinetic (operating brand: Module Kinetic Ltd.)
 > **Owner:** Digital Currensy Inc. (all rights reserved)
 > **Document:** Product page: Unitcommit (check 4 of 7). Documentation only, no source code
-> **Status:** DRAFT for founder review, not published
+> **Status:** Published (documentation showcase)
 > **Date:** 2026-10-19
 
 # Unitcommit
+
+![Unitcommit — yes and no from a real run](../assets/unitcommit.svg)
 
 ## The question
 
