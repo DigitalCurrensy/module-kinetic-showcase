@@ -6,7 +6,9 @@
 
 # Unitcommit
 
-![Unitcommit — yes and no from a real run](../assets/unitcommit.svg)
+![Unitcommit — illustration, with yes and no cards that are real product output](../assets/unitcommit.svg)
+
+*Illustration: product art, not a photo of real equipment. Yes and no cards: real product output, same words as the run.*
 
 ## The question
 
