@@ -6,7 +6,9 @@
 
 # Photonseal
 
-![Photonseal — yes and no from a real run](../assets/photonseal.svg)
+![Photonseal — illustration, with yes and no cards that are real product output](../assets/photonseal.svg)
+
+*Illustration: product art, not a photo of real equipment. Yes and no cards: real product output, same words as the run.*
 
 ## The question
 
