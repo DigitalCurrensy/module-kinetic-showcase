@@ -6,7 +6,9 @@
 
 # Loadclear
 
-![Loadclear — yes and no from a real run](../assets/loadclear.svg)
+![Loadclear — illustration, with yes and no cards that are real product output](../assets/loadclear.svg)
+
+*Illustration: product art, not a photo of real equipment. Yes and no cards: real product output, same words as the run.*
 
 ## The question
 
