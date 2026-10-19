@@ -1,10 +1,12 @@
 > **Business:** Module Kinetic (operating brand: Module Kinetic Ltd.)
 > **Owner:** Digital Currensy Inc. (all rights reserved)
 > **Document:** End-to-end story (all seven checks). Documentation only, no source code
-> **Status:** DRAFT for founder review, not published
+> **Status:** Published (documentation showcase)
 > **Date:** 2026-10-19
 
 # One fault, seven checks
+
+![One fault through all seven checks](../assets/e2e.svg)
 
 This story follows one sample fault from Module Kinetic's own end-to-end test. Every outcome comes from that test.
 
