@@ -6,7 +6,13 @@
 
 # One fault, seven checks
 
-![One fault through all seven checks](../assets/e2e.svg)
+![One fault through all seven checks — illustration, with labels that are real product output](../assets/e2e.svg)
+
+*Illustration: product art. Step labels, the refusal and the final result: real product output, same words as the run.*
+
+![The seven checks lighting up in order — animated illustration](../assets/e2e-chain.svg)
+
+*Animated illustration: the chain lights up one check at a time.*
 
 This story follows one sample fault from Module Kinetic's own end-to-end test. Every outcome comes from that test.
 
