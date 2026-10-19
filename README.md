@@ -6,7 +6,9 @@
 
 # Module Kinetic
 
-![Module Kinetic — seven checks](assets/hero.svg)
+![Module Kinetic — illustration of a charging bay with the seven checks as a lit chain](assets/hero.svg)
+
+*Illustration: product art, not a photo of real equipment.*
 
 **Proof, not opinion, for every EV charger repair.**
 
@@ -59,7 +61,9 @@ flowchart LR
 
 To follow one fault through all seven checks, see [docs/end-to-end.md](docs/end-to-end.md).
 
-![One fault through all seven checks](assets/e2e.svg)
+![One fault through all seven checks — illustration, with labels that are real product output](assets/e2e.svg)
+
+*Illustration: product art. Step labels, the refusal and the final result: real product output.*
 
 ## Shared principles
 
