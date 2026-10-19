@@ -1,10 +1,12 @@
 > **Business:** Module Kinetic (operating brand: Module Kinetic Ltd.)
 > **Owner:** Digital Currensy Inc. (all rights reserved)
 > **Document:** Product page: Cabinetfield (check 3 of 7). Documentation only, no source code
-> **Status:** DRAFT for founder review, not published
+> **Status:** Published (documentation showcase)
 > **Date:** 2026-10-19
 
 # Cabinetfield
+
+![Cabinetfield — yes and no from a real run](../assets/cabinetfield.svg)
 
 ## The question
 
